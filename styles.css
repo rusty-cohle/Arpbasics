@@ -1,14 +1,14 @@
 body {
-    font-family: Arial, sans-serif;
+    
     background-color: #FFDE03;
     color: #333;
-    margin: 0;
-    padding: 20px;
+  
+    
 }
 
 h1 {
     color: #FF5733;
-    margin: 20px 0;
+   
 }
 
 .center {
@@ -24,39 +24,35 @@ img {
 
 #about-me {
     background-color: #4CAF50;
-    border-radius: 5px;
-    padding: 10px;
+    
     
 }
 
 .section {
-    margin: 20px 0;
-    padding: 15px;
+    
     background-color: #2196F3;
-    border-radius: 5px;
+   
     
 }
 
 a {
-    margin: 0 10px;
-    text-decoration: none;
+    
     color: #FF9800;
 }
 
-a:hover {
-    text-decoration: underline;
+a {
+   
     color: #FF5722;
 }
 
 footer {
-    margin-top: 20px;
+    
     text-align: center;
 }
 
 footer p {
-    margin: 10px 0;
+   
     background-color: #9C27B0;
     color: white;
-    padding: 10px;
-    border-radius: 5px;
+   
 }
